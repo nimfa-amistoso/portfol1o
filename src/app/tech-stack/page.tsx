@@ -40,9 +40,17 @@ export default function TechStackPage() {
           </div>
         </div>
         <div>
-          <h2 className="mb-4 text-lg font-semibold">3D / Game Development</h2>
+          <h2 className="mb-4 text-lg font-semibold">GHL Specialist | Virtual Assistant</h2>
           <div className="flex flex-wrap gap-2">
-            {techStack.modeling.map((tech) => (
+            {techStack.crm.map((tech) => (
+              <Badge key={tech} variant="secondary">{tech}</Badge>
+            ))}
+          </div>
+        </div>
+        <div>
+          <h2 className="mb-4 text-lg font-semibold">Tools</h2>
+          <div className="flex flex-wrap gap-2">
+            {techStack.tools.map((tech) => (
               <Badge key={tech} variant="secondary">{tech}</Badge>
             ))}
           </div>
