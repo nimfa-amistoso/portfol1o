@@ -37,7 +37,7 @@ export const heroBadges: {
   },
 ];
 
-export const about = `I am Nimfa Amistoso, a fresh graduate of Bachelor of Science in Information Technology (BSIT) from Caraga State University, with 2 years of experience in virtual assistance, technical support, and CRM management. Currently, I am working as a GoHighLevel (GHL) Specialist at Greater Works Co., where I have been managing marketing automation, building sales funnels, and optimizing client systems for over a year.
+export const about = `A fresh graduate of Bachelor of Science in Information Technology (BSIT) from Caraga State University, with 2 years of experience in virtual assistance, technical support, and CRM management. Currently, I am working as a GoHighLevel (GHL) Specialist at Greater Works Co., where I have been managing marketing automation, building sales funnels, and optimizing client systems for over a year.
 
 In my role as a GHL Specialist, I specialize in creating high-converting funnels, automating workflows, managing pipelines, and supporting clients in maximizing the platform for their business growth. My experience also includes providing technical support, troubleshooting system issues, and ensuring seamless client onboarding and campaign execution.
 
