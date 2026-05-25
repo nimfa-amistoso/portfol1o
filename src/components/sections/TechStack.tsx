@@ -57,10 +57,10 @@ export function TechStack() {
           </div>
           <div>
             <h3 className="mb-1 text-xs font-medium text-muted-foreground">
-              3D / Game Development
+              GHL & CRM
             </h3>
             <div className="flex flex-row flex-wrap gap-1.5">
-              {techStack.modeling.map((tech) => (
+              {techStack.crm.map((tech) => (
                 <Badge key={tech} variant="secondary" className="text-xs px-1.5 py-0">
                   {tech}
                 </Badge>

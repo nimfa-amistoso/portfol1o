@@ -124,13 +124,13 @@ export function Hero() {
                   <span className="truncate">Send Email</span>
                 </Link>
               </Button>
-              <Button asChild variant="outline" className="h-8 min-w-0 flex-1 gap-1 px-2 text-xs">
+              {/* <Button asChild variant="outline" className="h-8 min-w-0 flex-1 gap-1 px-2 text-xs">
                 <Link href={site.blogUrl} target="_blank" rel="noopener" className="flex min-w-0 items-center justify-center gap-1">
                   <BookOpen className="h-3 w-3 shrink-0" />
                   <span className="truncate">Read my blog</span>
                   <ArrowRight className="h-3 w-3 shrink-0" />
                 </Link>
-              </Button>
+              </Button> */}
             </div>
           </div>
         </div>

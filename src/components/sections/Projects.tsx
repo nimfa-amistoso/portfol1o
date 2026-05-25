@@ -22,7 +22,7 @@ export function Projects() {
           {projects.map((project) => (
             <Card key={project.name} className="overflow-hidden transition hover:shadow-md">
               <CardContent className="p-0">
-                <Link
+                <a
                   href={project.url}
                   target="_blank"
                   rel="noopener"
@@ -38,7 +38,7 @@ export function Projects() {
                     </p>
                   </div>
                   <ExternalLink className="h-3.5 w-3.5 shrink-0 text-muted-foreground" />
-                </Link>
+                </a>
               </CardContent>
             </Card>
           ))}

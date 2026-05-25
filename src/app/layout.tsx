@@ -5,8 +5,9 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
 
 export const metadata: Metadata = {
-  title: "Portfolio | Software Engineer",
-  description: "Full-stack software engineer portfolio",
+  title: "Portfolio | GHL Specialist",
+  description:
+    "Professional portfolio showcasing web development, GoHighLevel automation, CRM systems, and full-stack software engineering projects.",
 };
 
 export default function RootLayout({

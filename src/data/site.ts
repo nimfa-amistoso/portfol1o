@@ -3,7 +3,7 @@ export const site = {
   location: "Butuan City, Philippines",
   tagline: "GoHighLevel Specialist | Full-Stack Web Developer | Virtual Assistant",
   /** Optional: URL to profile image (e.g. /avatar.jpg). Leave empty for initials placeholder. */
-  avatarUrl: "/images/myphoto.jpeg" as string | undefined,
+  avatarUrl: "/img/myphoto.jpeg" as string | undefined,
   /** Show verified checkmark next to name */
   verified: true,
   /** Optional: Facebook profile URL – verified badge links here when set */
@@ -23,7 +23,7 @@ export const heroBadges: {
   {
     label: "Open for Remote Opportunities",
     href: "mailto:nimfa.amistoso@gmail.com",
-    subtitle: "Available for CRM, VA, and Web Development roles",
+    subtitle: "Available for GHL Specialist, CRM, VA, and Web Development roles",
   },
   {
     label: "GoHighLevel Specialist",
@@ -131,9 +131,9 @@ export const projects = [
   {
     name: "CSC Mock Examination System",
     description:
-      "A full-stack mock examination platform with role-based access, analytics, anti-cheating detection, randomized exams, and Google Sheets database integration.",
-    url: "https://portfolio-vbuf.vercel.app/",
-    domain: "portfolio-vbuf.vercel.app",
+      "A web-based mock examination platform developed during internship at Caraga State University - Human Resource Management Services.",
+    url: "https://csu-csc-mock-exam.vercel.app/",
+    domain: "csu-csc-mock-exam.vercel.app",
   },
 
   {
@@ -142,14 +142,6 @@ export const projects = [
       "A modern business website developed for a plumbing service company featuring responsive design, service pages, contact forms, and professional branding.",
     url: "https://fusionplumbing.vercel.app/",
     domain: "fusionplumbing.vercel.app",
-  },
-
-  {
-    name: "CSC Mock Examination System",
-    description:
-      "A web-based mock examination platform developed during internship at Caraga State University - Human Resource Management Services.",
-    url: "https://csu-csc-mock-exam.vercel.app/",
-    domain: "csu-csc-mock-exam.vercel.app",
   },
 
   {
