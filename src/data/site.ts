@@ -54,7 +54,7 @@ export const experience = [
   {
     role: "BS Information Technology Graduate",
     company: "Caraga State University",
-    year: "2020 - 2026",
+    year: "2021 - 2026",
   },
   {
     role: "Intern - HRMS / System Development",
@@ -62,14 +62,14 @@ export const experience = [
     year: "2026",
   },
   {
-    role: "After Sales Support Specialist",
-    company: "Nowsite",
-    year: "2022 - 2024",
-  },
-  {
     role: "Virtual Assistant",
     company: "TheHundredFold",
     year: "2024",
+  },
+  {
+    role: "After Sales Support Specialist",
+    company: "Nowsite",
+    year: "2022 - 2024",
   },
 ];
 
