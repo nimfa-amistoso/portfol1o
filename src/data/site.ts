@@ -71,11 +71,6 @@ export const experience = [
     company: "TheHundredFold",
     year: "2024",
   },
-  {
-    role: "Frontend & Full-Stack Developer",
-    company: "Freelance Projects",
-    year: "2023 - Present",
-  },
 ];
 
 export const techStack = {
